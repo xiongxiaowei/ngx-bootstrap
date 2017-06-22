@@ -18,3 +18,6 @@
 - typehead
 
 bug原因`ngModel:since it is'not a known property element`
+![](http://i4.piimg.com/592358/5a5b3d8accb9b4eb.png)
+![](http://i4.piimg.com/592358/f37de0fc3e728a99.png)
+![](http://i4.piimg.com/592358/e5834e7490bb3bed.png)
