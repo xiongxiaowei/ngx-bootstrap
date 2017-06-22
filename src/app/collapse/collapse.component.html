@@ -1,0 +1,13 @@
+<button type="button" class="btn btn-primary"
+        (click)="isCollapsed = !isCollapsed">Toggle collapse
+</button>
+<hr>
+<div (collapsed)="collapsed($event)"
+     (expanded)="expanded($event)"
+     [collapse]="isCollapsed"
+     class="card card-block card-header">
+  <div class="well well-lg">
+    hello everyone:
+    <p>My name is XiongWei.Now I am trying to use ngx-bootstrap,and herr is collapse session</p>
+  </div>
+</div>
