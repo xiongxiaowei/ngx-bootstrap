@@ -18,4 +18,4 @@
 - typehead
 
 bug原因`ngModel:since it is'not a known property element`
-
+bug地址： http://git.oschina.net/judy201654321/angular/blob/master/files/ngx-bootstrapbug.md
