@@ -1,5 +1,5 @@
 ### Ngxbootstrap
-**api地址**http://valor-software.com/ngx-bootstrap/index-bs4.html#/
+**api地址**http://valor-software.com/ngx-bootstrap/index-bs4.html#/ <br>
 全部模块都尝试了一下，说说感受，比较好用的几个模块
 1. 轮播图carousel
 2. alert
