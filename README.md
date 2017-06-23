@@ -1,4 +1,4 @@
-### ngx-bootstrap
+### [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)
 全部模块都尝试了一下，说说感受，比较好用的几个模块
 1. 轮播图carousel
 2. alert
